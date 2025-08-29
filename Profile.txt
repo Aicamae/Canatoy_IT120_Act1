@@ -1,0 +1,7 @@
+FirstName: Jamaica
+MiddleName: Bihag
+LastName: Canatoy
+Gender: female
+Age: 20
+Birthday: February 6,2005
+Contacts:09850986221
