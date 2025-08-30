@@ -1,3 +1,3 @@
-Language: 
-Person to be Contact: 
-Address: 
+Language: Visaya/Tagalog/English
+Person to be Contact: Janice B. Canatoy
+Address: P-3 Piglawigan Esperanza Agusan Del Sur
