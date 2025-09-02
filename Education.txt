@@ -1,7 +1,4 @@
-Elementary School: 
-Year Graduated: 
-High School: 
-Year Graduated: 
-College: 
-Program: 
-Year Level:
+Elementary School: JOSE CALO AGUDO ELEMENTARY SCHOOL
+Year Graduated: 2017
+High School: ESPERANZA NATIONAL HIGH SCHOOL
+Year Graduated: 2023
