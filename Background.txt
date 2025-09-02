@@ -1,3 +1,1 @@
-Language: 
-Person to be Contact: 
-Address: 
+Language: Bisaya/Tagalog/English
